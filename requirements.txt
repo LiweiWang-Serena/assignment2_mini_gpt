@@ -1,0 +1,3 @@
+torch>=2.1
+matplotlib>=3.7
+transformers>=4.30  # optional: only used by evaluate.py to decode generated text
